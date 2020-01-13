@@ -1,5 +1,5 @@
 # Heap-and-Priority-Queue
-Heap and priority queue classes and a test program that implements them. Written in fall of 2019 as an academic project.
+Heap and priority queue classes and a test program that implements them.
 
 These programs were developed collaboratively with a fellow student as an academic project. show11.cpp, test11.cpp, and test11pq.cpp were provided by the instructor.
 
